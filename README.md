@@ -4,7 +4,7 @@ API REST de una clínica con Node, Express y MongoDB (Mongoose): médicos con re
 
 ## 🎥 Video
 
-👉 PEGAR_AQUI_EL_ENLACE_DE_YOUTUBE
+👉 https://youtu.be/CJm1mWk5PdY
 
 ## Cómo levantarlo
 
